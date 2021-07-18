@@ -28,6 +28,9 @@ npm i status-bar
 ionic build
 
 
+masonry layout: https://masonry.desandro.com/
+
+
 <br><br>
 
 <p float="left">
